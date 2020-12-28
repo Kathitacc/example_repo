@@ -1,3 +1,4 @@
+/*hello word example kc*/
 #include <stdio.h>
 
 int main() {
